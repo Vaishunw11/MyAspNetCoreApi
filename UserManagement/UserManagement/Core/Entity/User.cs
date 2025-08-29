@@ -18,7 +18,7 @@ namespace UserManagement.Core.Entity
 
         public string Role { get; set; } = "User";
 
-        public bool IsActive { get; set; } = false;
+        public bool IsActive { get; set; } = true;
 
     }
 }

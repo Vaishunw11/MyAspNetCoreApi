@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|d:\\user management\\webapplication1\\webapplication1\\usermanagement\\usermanagement\\core\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\core\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|d:\\user management\\webapplication1\\webapplication1\\usermanagement\\usermanagement\\bi\\mapping\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\bi\\mapping\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\core\\contract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|d:\\user management\\webapplication1\\webapplication1\\usermanagement\\usermanagement\\core\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\core\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|d:\\user management\\webapplication1\\webapplication1\\usermanagement\\usermanagement\\data\\dal\\appdb\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\data\\dal\\appdb\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -66,7 +66,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Core\\DTO\\UserDTO.cs",
               "RelativeDocumentMoniker": "UserManagement\\Core\\DTO\\UserDTO.cs",
@@ -79,19 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserRepo.cs",
-              "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\DATA\\DAL\\AppDB\\UserRepo.cs",
-              "RelativeDocumentMoniker": "UserManagement\\DATA\\DAL\\AppDB\\UserRepo.cs",
-              "ToolTip": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\DATA\\DAL\\AppDB\\UserRepo.cs",
-              "RelativeToolTip": "UserManagement\\DATA\\DAL\\AppDB\\UserRepo.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAYwCUAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T11:05:25.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IUserRepo.cs",
               "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Core\\Contract\\IUserRepo.cs",
               "RelativeDocumentMoniker": "UserManagement\\Core\\Contract\\IUserRepo.cs",
@@ -103,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Core\\Contract\\IUserService.cs",
               "RelativeDocumentMoniker": "UserManagement\\Core\\Contract\\IUserService.cs",
@@ -127,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "EnumResponse.cs",
               "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Enum\\EnumResponse.cs",
               "RelativeDocumentMoniker": "UserManagement\\Enum\\EnumResponse.cs",
@@ -139,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "UserManagement\\Controllers\\UserController.cs",
@@ -151,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Program.cs",
               "RelativeDocumentMoniker": "UserManagement\\Program.cs",
@@ -163,32 +151,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\BI\\Mapping\\UserService.cs",
               "RelativeDocumentMoniker": "UserManagement\\BI\\Mapping\\UserService.cs",
               "ToolTip": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\BI\\Mapping\\UserService.cs",
               "RelativeToolTip": "UserManagement\\BI\\Mapping\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T11:12:15.409Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Core\\Entity\\User.cs",
               "RelativeDocumentMoniker": "UserManagement\\Core\\Entity\\User.cs",
               "ToolTip": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Core\\Entity\\User.cs",
               "RelativeToolTip": "UserManagement\\Core\\Entity\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T11:08:46.752Z"
+              "WhenOpened": "2025-08-28T11:08:46.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\DATA\\DAL\\AppDB\\UserRepo.cs",
+              "RelativeDocumentMoniker": "UserManagement\\DATA\\DAL\\AppDB\\UserRepo.cs",
+              "ToolTip": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\DATA\\DAL\\AppDB\\UserRepo.cs",
+              "RelativeToolTip": "UserManagement\\DATA\\DAL\\AppDB\\UserRepo.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwCUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:05:25.754Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Document",
