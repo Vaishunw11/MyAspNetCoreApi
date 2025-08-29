@@ -5012,11 +5012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\UserManagement.csproj",
+      "projectUniqueName": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\UserManagement.csproj",
       "projectName": "UserManagement",
-      "projectPath": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\UserManagement.csproj",
+      "projectPath": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\UserManagement.csproj",
       "packagesPath": "C:\\Users\\vaish\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\obj\\",
+      "outputPath": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
