@@ -75,7 +75,8 @@
               "ViewState": "AgIAAAQAAAAAAAAAAAAowBIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T10:57:58.782Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -87,7 +88,8 @@
               "RelativeToolTip": "UserManagement\\Core\\Contract\\IUserRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T10:57:09.756Z"
+              "WhenOpened": "2025-08-28T10:57:09.756Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -99,7 +101,8 @@
               "RelativeToolTip": "UserManagement\\Core\\Contract\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T10:57:36.716Z"
+              "WhenOpened": "2025-08-28T10:57:36.716Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -111,7 +114,8 @@
               "RelativeToolTip": "UserManagement\\DATA\\DAL\\AppDB\\ApplicationDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T11:04:25.822Z"
+              "WhenOpened": "2025-08-28T11:04:25.822Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -123,7 +127,8 @@
               "RelativeToolTip": "UserManagement\\Enum\\EnumResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T11:10:16.399Z"
+              "WhenOpened": "2025-08-28T11:10:16.399Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -135,7 +140,8 @@
               "RelativeToolTip": "UserManagement\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T11:46:33.435Z"
+              "WhenOpened": "2025-08-28T11:46:33.435Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -147,7 +153,8 @@
               "RelativeToolTip": "UserManagement\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T12:23:39.262Z"
+              "WhenOpened": "2025-08-28T12:23:39.262Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -170,7 +177,7 @@
               "RelativeDocumentMoniker": "UserManagement\\Core\\Entity\\User.cs",
               "ToolTip": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Core\\Entity\\User.cs",
               "RelativeToolTip": "UserManagement\\Core\\Entity\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T11:08:46.752Z",
               "EditorCaption": ""
@@ -185,11 +192,8 @@
               "RelativeToolTip": "UserManagement\\DATA\\DAL\\AppDB\\UserRepo.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAYwCUAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T11:05:25.754Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "WhenOpened": "2025-08-28T11:05:25.754Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -201,7 +205,8 @@
               "RelativeToolTip": "UserManagement\\Core\\DTO\\Pagination DTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T11:51:11.55Z"
+              "WhenOpened": "2025-08-28T11:51:11.55Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -213,7 +218,8 @@
               "RelativeToolTip": "UserManagement\\BI\\Mapping\\UserMapping.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T11:02:13.049Z"
+              "WhenOpened": "2025-08-28T11:02:13.049Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -225,7 +231,8 @@
               "RelativeToolTip": "UserManagement\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-28T11:07:10.072Z"
+              "WhenOpened": "2025-08-28T11:07:10.072Z",
+              "EditorCaption": ""
             }
           ]
         }
