@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vaish\\source\\repos\\UserManagement\\",
+  "WorkspaceRootPath": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|c:\\users\\vaish\\source\\repos\\usermanagement\\usermanagement\\bi\\mapping\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|d:\\user management\\webapplication1\\webapplication1\\usermanagement\\usermanagement\\bi\\mapping\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\bi\\mapping\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|c:\\users\\vaish\\source\\repos\\usermanagement\\usermanagement\\core\\contract\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|d:\\user management\\webapplication1\\webapplication1\\usermanagement\\usermanagement\\core\\contract\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\core\\contract\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|c:\\users\\vaish\\source\\repos\\usermanagement\\usermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|d:\\user management\\webapplication1\\webapplication1\\usermanagement\\usermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|c:\\users\\vaish\\source\\repos\\usermanagement\\usermanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|d:\\user management\\webapplication1\\webapplication1\\usermanagement\\usermanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|c:\\users\\vaish\\source\\repos\\usermanagement\\usermanagement\\data\\dal\\appdb\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|d:\\user management\\webapplication1\\webapplication1\\usermanagement\\usermanagement\\data\\dal\\appdb\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\data\\dal\\appdb\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|c:\\users\\vaish\\source\\repos\\usermanagement\\usermanagement\\core\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|d:\\user management\\webapplication1\\webapplication1\\usermanagement\\usermanagement\\core\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\core\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|c:\\users\\vaish\\source\\repos\\usermanagement\\usermanagement\\enum\\enumresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|d:\\user management\\webapplication1\\webapplication1\\usermanagement\\usermanagement\\enum\\enumresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\enum\\enumresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|c:\\users\\vaish\\source\\repos\\usermanagement\\usermanagement\\core\\contract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|d:\\user management\\webapplication1\\webapplication1\\usermanagement\\usermanagement\\core\\contract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\core\\contract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|c:\\users\\vaish\\source\\repos\\usermanagement\\usermanagement\\core\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|d:\\user management\\webapplication1\\webapplication1\\usermanagement\\usermanagement\\core\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\core\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|c:\\users\\vaish\\source\\repos\\usermanagement\\usermanagement\\data\\dal\\appdb\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|d:\\user management\\webapplication1\\webapplication1\\usermanagement\\usermanagement\\data\\dal\\appdb\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\data\\dal\\appdb\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|c:\\users\\vaish\\source\\repos\\usermanagement\\usermanagement\\core\\dto\\pagination dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|d:\\user management\\webapplication1\\webapplication1\\usermanagement\\usermanagement\\core\\dto\\pagination dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\core\\dto\\pagination dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|c:\\users\\vaish\\source\\repos\\usermanagement\\usermanagement\\bi\\mapping\\usermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|d:\\user management\\webapplication1\\webapplication1\\usermanagement\\usermanagement\\bi\\mapping\\usermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\bi\\mapping\\usermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|c:\\users\\vaish\\source\\repos\\usermanagement\\usermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|d:\\user management\\webapplication1\\webapplication1\\usermanagement\\usermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CC22A6D7-22C8-40DE-A50D-E77DCFAF99A1}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -68,9 +68,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\Core\\DTO\\UserDTO.cs",
+              "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Core\\DTO\\UserDTO.cs",
               "RelativeDocumentMoniker": "UserManagement\\Core\\DTO\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\Core\\DTO\\UserDTO.cs",
+              "ToolTip": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Core\\DTO\\UserDTO.cs",
               "RelativeToolTip": "UserManagement\\Core\\DTO\\UserDTO.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAowBIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -81,9 +81,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "UserRepo.cs",
-              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\DATA\\DAL\\AppDB\\UserRepo.cs",
+              "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\DATA\\DAL\\AppDB\\UserRepo.cs",
               "RelativeDocumentMoniker": "UserManagement\\DATA\\DAL\\AppDB\\UserRepo.cs",
-              "ToolTip": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\DATA\\DAL\\AppDB\\UserRepo.cs",
+              "ToolTip": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\DATA\\DAL\\AppDB\\UserRepo.cs",
               "RelativeToolTip": "UserManagement\\DATA\\DAL\\AppDB\\UserRepo.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAYwCUAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,9 +93,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "IUserRepo.cs",
-              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\Core\\Contract\\IUserRepo.cs",
+              "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Core\\Contract\\IUserRepo.cs",
               "RelativeDocumentMoniker": "UserManagement\\Core\\Contract\\IUserRepo.cs",
-              "ToolTip": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\Core\\Contract\\IUserRepo.cs",
+              "ToolTip": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Core\\Contract\\IUserRepo.cs",
               "RelativeToolTip": "UserManagement\\Core\\Contract\\IUserRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -105,9 +105,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\Core\\Contract\\IUserService.cs",
+              "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Core\\Contract\\IUserService.cs",
               "RelativeDocumentMoniker": "UserManagement\\Core\\Contract\\IUserService.cs",
-              "ToolTip": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\Core\\Contract\\IUserService.cs",
+              "ToolTip": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Core\\Contract\\IUserService.cs",
               "RelativeToolTip": "UserManagement\\Core\\Contract\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -117,9 +117,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\DATA\\DAL\\AppDB\\ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\DATA\\DAL\\AppDB\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "UserManagement\\DATA\\DAL\\AppDB\\ApplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\DATA\\DAL\\AppDB\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\DATA\\DAL\\AppDB\\ApplicationDBContext.cs",
               "RelativeToolTip": "UserManagement\\DATA\\DAL\\AppDB\\ApplicationDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -129,9 +129,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "EnumResponse.cs",
-              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\Enum\\EnumResponse.cs",
+              "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Enum\\EnumResponse.cs",
               "RelativeDocumentMoniker": "UserManagement\\Enum\\EnumResponse.cs",
-              "ToolTip": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\Enum\\EnumResponse.cs",
+              "ToolTip": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Enum\\EnumResponse.cs",
               "RelativeToolTip": "UserManagement\\Enum\\EnumResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -141,9 +141,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\Controllers\\UserController.cs",
+              "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "UserManagement\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Controllers\\UserController.cs",
               "RelativeToolTip": "UserManagement\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -153,9 +153,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\Program.cs",
+              "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Program.cs",
               "RelativeDocumentMoniker": "UserManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\Program.cs",
+              "ToolTip": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Program.cs",
               "RelativeToolTip": "UserManagement\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -165,9 +165,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\BI\\Mapping\\UserService.cs",
+              "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\BI\\Mapping\\UserService.cs",
               "RelativeDocumentMoniker": "UserManagement\\BI\\Mapping\\UserService.cs",
-              "ToolTip": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\BI\\Mapping\\UserService.cs",
+              "ToolTip": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\BI\\Mapping\\UserService.cs",
               "RelativeToolTip": "UserManagement\\BI\\Mapping\\UserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,12 +175,16 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\Core\\Entity\\User.cs",
+              "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Core\\Entity\\User.cs",
               "RelativeDocumentMoniker": "UserManagement\\Core\\Entity\\User.cs",
-              "ToolTip": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\Core\\Entity\\User.cs",
+              "ToolTip": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Core\\Entity\\User.cs",
               "RelativeToolTip": "UserManagement\\Core\\Entity\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -190,9 +194,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Pagination DTO.cs",
-              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\Core\\DTO\\Pagination DTO.cs",
+              "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Core\\DTO\\Pagination DTO.cs",
               "RelativeDocumentMoniker": "UserManagement\\Core\\DTO\\Pagination DTO.cs",
-              "ToolTip": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\Core\\DTO\\Pagination DTO.cs",
+              "ToolTip": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\Core\\DTO\\Pagination DTO.cs",
               "RelativeToolTip": "UserManagement\\Core\\DTO\\Pagination DTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -202,9 +206,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "UserMapping.cs",
-              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\BI\\Mapping\\UserMapping.cs",
+              "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\BI\\Mapping\\UserMapping.cs",
               "RelativeDocumentMoniker": "UserManagement\\BI\\Mapping\\UserMapping.cs",
-              "ToolTip": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\BI\\Mapping\\UserMapping.cs",
+              "ToolTip": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\BI\\Mapping\\UserMapping.cs",
               "RelativeToolTip": "UserManagement\\BI\\Mapping\\UserMapping.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -214,9 +218,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\appsettings.json",
+              "DocumentMoniker": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\appsettings.json",
               "RelativeDocumentMoniker": "UserManagement\\appsettings.json",
-              "ToolTip": "C:\\Users\\vaish\\source\\repos\\UserManagement\\UserManagement\\appsettings.json",
+              "ToolTip": "D:\\User Management\\WebApplication1\\WebApplication1\\UserManagement\\UserManagement\\appsettings.json",
               "RelativeToolTip": "UserManagement\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
